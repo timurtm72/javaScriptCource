@@ -1,0 +1,22 @@
+{
+  "name": "javascriptcourse",
+  "version": "1.0.0",
+  "description": "test",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JavaScriptCource"
+  },
+  "keywords": [
+    "timur_bua_2022"
+  ],
+  "author": "timur",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
